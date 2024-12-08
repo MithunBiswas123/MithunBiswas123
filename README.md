@@ -1,5 +1,5 @@
 ![MasterHead](https://wallpapers.com/images/hd/funny-garfield-coding-quote-6gppbj5wvt0k4yr4.jpg)
-<h1 align="center">Hi 👋, I'm Abhishek singh</h1>
+<h1 align="center">Hi 👋, I'm Mitun Biswas</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Full+Stack+Developer;Cloud+Engineer;DSA+Learner;IT+Enthusiast;" alt="Typing SVG" />
