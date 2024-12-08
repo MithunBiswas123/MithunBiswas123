@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **javaScript,React,Python,C++**
 
-- 📫 How to reach me **abhi120730@gmail.com**
+- 📫 How to reach me **biswasmithun04960@gmail.com**
 
 - ⚡ Fun fact **I am a Funny webber🕸️🕸️**
 
@@ -30,7 +30,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mithun-biswas-2aa655303"/></a>
-<a href="https://instagram.com/abhisheksingh._______" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100" alt="abhisheksingh._______"  /></a>
+<a href="https://www.instagram.com/biswas_mithun_11?igsh=MTZkcG1meG12OWs3Mw=="  /></a>
 </p>
 
 
