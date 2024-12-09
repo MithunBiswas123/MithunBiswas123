@@ -27,10 +27,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
 </div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/mithun-biswas-2aa655303"/></a>
-<a href="https://www.instagram.com/biswas_mithun_11?igsh=MTZkcG1meG12OWs3Mw=="  /></a>
+
 </p>
 
 
